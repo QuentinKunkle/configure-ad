@@ -261,7 +261,7 @@ Allow “domain users” access to remote desktop, You can now log into Client-1
 <img src="https://github.com/user-attachments/assets/533b4d68-81a3-4dcf-8c71-400a5c1853b1" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Login to DC-1 as jane_admin and open PowerShell_ise as an administrator
+Log in to DC-1 as jane_admin and open PowerShell_ise as an administrator
 </p>
 <br />
 
@@ -274,7 +274,7 @@ Create a new File and paste the contents of this <a href="https://github.com/Que
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/5aaf1dae-eac6-410d-8af4-7a72ba13635f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Run the script and observe the accounts being created
@@ -282,7 +282,7 @@ Run the script and observe the accounts being created
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/45a126d6-4cfd-4682-88b9-092d9d699107" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 When finished, open ADUC and observe the accounts in the appropriate OU　(_EMPLOYEES)
@@ -290,9 +290,15 @@ When finished, open ADUC and observe the accounts in the appropriate OU　(_EMPL
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/c242505c-41be-4a84-bfb2-b7894805bdc5" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 attempt to log into Client-1 with one of the accounts (take note of the password in the script)
 </p>
 <br />
+
+<h2>Conclusion</h2>
+<p>
+You now have a complete training system set up for Active Directory. Take some time and practice enabling and disabling accounts, resetting passwords, <a href="https://github.com/QuentinKunkle/GCP">Configure Group Policy</a></h1>, and more. 
+</p>
+

@@ -299,6 +299,6 @@ attempt to log into Client-1 with one of the accounts (take note of the password
 
 <h2>Conclusion</h2>
 <p>
-You now have a complete training system set up for Active Directory. Take some time and practice enabling and disabling accounts, resetting passwords, <a href="https://github.com/QuentinKunkle/GCP">Configure Group Policy</a></h1>, and more. 
+You now have a complete training system set up for Active Directory. Take some time and practice enabling and disabling accounts, resetting passwords, <a href="https://github.com/QuentinKunkle/CGP">Configure Group Policy</a></h1>, and more. 
 </p>
 

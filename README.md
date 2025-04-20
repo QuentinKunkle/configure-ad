@@ -27,9 +27,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Join Client-1 to your domain (mydomain.com)
 - Set up Remote Desktop for non-administrative users on Client-1
 - Create a bunch of additional users and attempt to log into client-1 with one of the users
-- Dealing with Account Lockouts
-- Enabling and Disabling Accounts
-- Observing Logs
 
 <h2>Set up a Domain Controller in Azure</h2>
 
